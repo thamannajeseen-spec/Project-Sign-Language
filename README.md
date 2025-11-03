@@ -40,19 +40,3 @@ This project's core finding is that a feature-extraction approach (Mediapipe + D
 |
 └── README.md                       # This file
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# -Project-Sign-Language
