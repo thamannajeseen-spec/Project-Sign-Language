@@ -1,4 +1,4 @@
-# AI-based Sign Language Interpretation 🤟
+# Sign Language Interpretation 🤟
 
 This project is a real-time sign language interpretation system that uses a standard webcam to identify static Indian Sign Language (ISL) gestures. It leverages Google's Mediapipe for high-performance hand landmark extraction and a lightweight Deep Neural Network (DNN) for classification.
 
